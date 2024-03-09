@@ -39,6 +39,8 @@ To run this project locally, follow these steps:
 $ pip install opencv-python
 ```
 2. Install Numpy:
+   
+```bash
 $ pip install numpy
 ```
 

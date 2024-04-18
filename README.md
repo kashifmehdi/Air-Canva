@@ -28,7 +28,7 @@ This project is created using:
 * NumPy
 
 ## Features ✨
-* Supports drawing in four colors: Blue 🔵, Red 🔴, Green 🟢, Yellow 🟡
+* Supports drawing in all colors, including a brush size slider 
 * Clear all button to reset the canvas
 * Save button
 
@@ -49,7 +49,15 @@ $ pip install numpy
 Once the project is set up, you can run the main script to start the Canvas application. Use your mouse or touchscreen to draw on the canvas. Select different colors using the provided color palette, and use the clear all button to reset the canvas. You can also save the drawing or painting.😊
 
 ## Demo 🎬
-[Add link to demo or screenshots here]
+<div align="center">
+
+   ![assets/Screenshot 1.png](https://github.com/kashifmehdi/Air-Canva/blob/8d9ffb4995101ccf1808b976b5b4c005ff5011ad/assets/Screenshot%201.png)
+   <p>Color Palette Screenshot </p>
+   
+   ![assets/Screenshot 2.png](https://github.com/kashifmehdi/Air-Canva/blob/8d9ffb4995101ccf1808b976b5b4c005ff5011ad/assets/Screenshot%202.png)
+   <p>Canvas in action with diffrent brush sizes </p>
+</div>
+
 
 ## Contributing 🤝
 Contributions are welcome! If you'd like to contribute to this project, please open an issue or submit a pull request on GitHub.

@@ -1,12 +1,12 @@
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Latest-blue?style=flat&logo=opencv)](https://opencv.org/)
+[![tkinter](https://img.shields.io/badge/tkinter-Latest-blue?style=flat&logo=tkinter)](https://tkinter.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Latest-blue?style=flat&logo=numpy)](https://numpy.org/)
 
 </div>
 
-<h1 align="center">Air Canvas 🎨</h1>
+<h1 align="center"> Canvas 🎨</h1>
 
 ## Table of Contents
 * [General Info](#general-info)
@@ -19,24 +19,25 @@
 
 
 ## General Info ℹ️
-Air Canvas is a project that allows users to create drawings using OpenCV. It provides a simple interface with basic drawing functionalities such as selecting colors and clearing the canvas.
+The canvas is a project that allows users to create drawings using tkinter. It provides a simple interface with basic drawing functionalities such as selecting colors and clearing the canvas.
 
 ## Technologies Used 💻
 This project is created using:
 * Python 3.8
-* OpenCV
+* tkinter
 * NumPy
 
 ## Features ✨
 * Supports drawing in four colors: Blue 🔵, Red 🔴, Green 🟢, Yellow 🟡
 * Clear all button to reset the canvas
+* Save button
 
 ## Setup 🛠️
 To run this project locally, follow these steps:
 
-1. Install OpenCV using pip:
+1. Install tkinter using pip:
 ```bash
-$ pip install opencv-python
+$ pip install tkinter
 ```
 2. Install Numpy:
    
@@ -45,7 +46,7 @@ $ pip install numpy
 ```
 
 ## Usage ▶️
-Once the project is set up, you can run the main script to start the Air Canvas application. Use your mouse or touchscreen to draw on the canvas. Select different colors using the provided buttons, and use the clear all button to reset the canvas.
+Once the project is set up, you can run the main script to start the Canvas application. Use your mouse or touchscreen to draw on the canvas. Select different colors using the provided color palette, and use the clear all button to reset the canvas. You can also save the drawing or painting.😊
 
 ## Demo 🎬
 [Add link to demo or screenshots here]
